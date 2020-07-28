@@ -2,8 +2,8 @@
  * 引用sdk 
  */ 
 const SMSClient = require('@alicloud/sms-sdk') 
-const accessKeyId = 'LTAI4FkjbSTUns5RFTLRAbiK'//你自己在阿里云后台的accessKeyId 
-const secretAccessKey = 'jJ1a5gWMcNdQbEpq4rr3mc0b5Fl5bY'//secretAccessKey
+const accessKeyId = 'xxx'//你自己在阿里云后台的accessKeyId 
+const secretAccessKey = 'xxx'//secretAccessKey
 var sendmsg = {}; 
 /** 
  * 发送短信验证码 
